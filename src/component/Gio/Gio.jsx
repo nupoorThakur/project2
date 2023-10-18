@@ -11,7 +11,7 @@ function Gio() {
   })
   },[])
   return (
-    <div className="text-center m-4 bg-black text-white p-4 text-3xl">gitHub : {data.followers}</div>
+    <div className="text-center m-4 bg-black text-white p-4 text-3xl">gitHubbbbb: {data.followers}</div>
   )
 }
 
